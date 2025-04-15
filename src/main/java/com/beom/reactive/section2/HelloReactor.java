@@ -1,4 +1,4 @@
-package com.beom.reactive;
+package com.beom.reactive.section2;
 
 import reactor.core.publisher.Mono;
 
